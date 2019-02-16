@@ -2,11 +2,11 @@ html, body {
   background: #182952;
 }
 
-/*body {
+body {
   color: rgba(255, 255, 255, 0.2);
 }
 
-.page {
+/*.page {
   max-width: 30em;
   margin: auto;
   overflow: hidden;
