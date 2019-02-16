@@ -6,3 +6,8 @@ var navigate = (function() {
 		$('.' + dataName).toggle();
 	});
 })();
+
+Splitting();
+ScrollOut({
+   targets: '[data-splitting]'
+});
