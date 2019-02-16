@@ -1,4 +1,19 @@
-/*body {
+/*
+html, body {
+  background: #182952;
+}
+
+body {
+  color: rgba(255, 255, 255, 0.2);
+}
+
+.page {
+  max-width: 30em;
+  margin: auto;
+  overflow: hidden;
+}
+
+body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -37,20 +52,7 @@ h1.splitting[data-scroll="out"] .char {
 }
 
 /* ---------------------------------- */
-/*html, body {
-  background: #182952;
-}
-
-body {
-  color: rgba(255, 255, 255, 0.2);
-}
-
-.page {
-  max-width: 30em;
-  margin: auto;
-  overflow: hidden;
-}
-
+/*
 
 .containers {
   width: 520px;
