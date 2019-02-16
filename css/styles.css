@@ -38,10 +38,10 @@ h1.splitting .char {
   transition-delay: calc(20ms * var(--char-index));
 }
 
-/*h1.splitting[data-scroll="out"] .char {
+h1.splitting[data-scroll="out"] .char {
   opacity: 0.1;
   -webkit-transform: translateY(0.25em);
-          transform: translateY(0.25em);
+  transform: translateY(0.25em);
 }
 
 /* ---------------------------------- */
